@@ -7,8 +7,8 @@
 2.1 Chạy source code bằng trình duyệt trên máy tính (chrome, firefox, cốc cốc, edge,...)
 -----------------------------------------------------------------------------------------
 Thông tin nhóm:
-|STT|Thành viên|% đóng góp|Nhiệm vụ|
-1  Nguyễn Bá Tuấn Kiệt - % -
-2  Trương Minh Phương - % -
-3  Hồ Quốc Vương - % -
-4  Lương Minh Thắng - % -
+|STT|Thành viên|% đóng góp|
+1  Nguyễn Bá Tuấn Kiệt - 25%
+2  Trương Minh Phương - 25%
+3  Hồ Quốc Vương - 25%
+4  Lương Minh Thắng - 25%
