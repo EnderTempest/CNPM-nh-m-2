@@ -1,0 +1,14 @@
+1. Cài đặt VScode
+1.1 Thêm các tiện ích hỗ trợ cho HTML: HTML CSS support.
+1.2 Thêm các tiện ích hỗ trợ cho JavaScript: ES7 + React/Redux, Code Runner.
+1.3 Thêm tiện tích Live Preview
+1.4 Thêm tiện tích Debugger
+2. Chạy source code.
+2.1 Chạy source code bằng trình duyệt trên máy tính (chrome, firefox, cốc cốc, edge,...)
+-----------------------------------------------------------------------------------------
+Thông tin nhóm:
+|STT|Thành viên|% đóng góp|Nhiệm vụ|
+1  Nguyễn Bá Tuấn Kiệt - % -
+2  Trương Minh Phương - % -
+3  Hồ Quốc Vương - % -
+4  Lương Minh Thắng - % -
