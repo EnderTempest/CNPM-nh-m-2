@@ -1,0 +1,15 @@
+User Stories cho website 
+bán điện thoại di động.
+1.	Quản trị viên (Admin):
+-	Với tư cách là quản trị viên, tôi muốn thêm và chỉnh sửa thông tin sản phẩm để có thể cập nhật sản phẩm mới và sửa những chi tiết sai sót, thêm các khuyến mãi hoặc trả góp cho từng sản phẩm.
+-	Với tư cách là quản trị viên, tôi muốn xem, quản lý đơn hàng của khách hàng để có thể kiểm tra trạng thái của đơn hàng và tiến hành giao hàng.
+-	Với tư cách là quản trị viên, tôi muốn có thể quản lý tài khoản của người dùng để kiểm soát quyền truy cập và duy trì bảo mật hệ thống.
+-	Với tư cách là quản trị viên, tôi muốn mình có thể theo dõi doanh thu của cửa hàng. (Số lượng sản phẩm được bán ra, loại sản phẩm được mua, …)
+-	Với tư cách là quản trị viên, tôi muốn người dùng phải đăng nhập để thực hiện đặt hàng. Với việc rằng buộc người mua hàng phải đăng kí tài khoản với email chính xác để đặt hàng sẽ giúp tăng lượng khách hàng tham gia cũng như tăng tính bảo mật và an toàn cho cả 2 bên khách hàng và người chủ.
+2.	Khách hàng (Customer):
+-	Với tư cách là khách hàng, tôi muốn theo dõi tình trạng giao hàng của mình để biết trạng thái đơn hàng của mình dang ở giai đoạn nào.
+-	Với tư cách là khách hàng, tôi muốn có thể liên lạc và trao đổi một cách riêng tư với cửa hàng. (Trao đổi qua tín nhắn, gửi thông báo qua email, …)
+3.	Người dùng thông thường (User):
+-	Với tư cách là người dùng thông thường, tôi muốn có mục tìm kiếm sản phẩm để có thể mau chóng tìm được sản phẩm mình muốn. (có thể tìm sản phẩm theo hãng, nhà sản xuất, nhu cầu sử dụng, …)
+-	Với tư cách là người dùng thông thường, tôi muốn thêm hoặc xóa sản phẩm có trong giỏ hàng của mình, để có thể tập hợp một lần các sản phẩm mong muốn.
+-	Với tư cách là người dùng thông thường, tôi muốn có thể theo dõi tình trạng đơn hàng của mình. Để có thể theo dõi tiến độ đơn hàng như đang được xử lí, đang vận chuyển, …
